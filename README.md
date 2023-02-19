@@ -7,11 +7,11 @@ This Assignment involves:
 - Determining which sampling technique gives higher accuracy on which model.
 
 # Sampling techniques used
-- Simple Random Sampling
-- Systematic Sampling
-- Stratified Sampling
-- Cluster Sampling
-- Convenience Sampling
+- **Simple Random Sampling**- Pick the sample at random
+- **Systematic Sampling**- Samples are chosen at random intervals.
+- **Stratified Sampling**- The population is divided into subgroups or strata based on a certain characteristic. Individual elements from a sub-population can be randomly selected.
+- **Cluster Sampling**- The entire population is divided into smaller groups and then a random sample of these clusters is selected. The sample size is then selected on the basis of sample size.
+- **Convenience Sampling**- Sample is selected as per Convenience.
 
 # Machine Models used
 - KNN
@@ -19,3 +19,6 @@ This Assignment involves:
 - Naive Bayes
 - Support Vector Machine
 - Decision Tree
+
+# Output
+<img width=50% alt="image" src="https://user-images.githubusercontent.com/72308664/219956618-68470c4f-226f-43e4-a128-80522a74e156.png">
