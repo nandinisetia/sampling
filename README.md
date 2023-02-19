@@ -8,6 +8,8 @@ This Assignment involves:
 
 # Sampling techniques used
 - **Simple Random Sampling**- Pick the sample at random
+<img width=40% alt="image" src="https://user-images.githubusercontent.com/72308664/219959189-0f14cbf0-9d46-4afb-ad8c-f64ada3a2cf7.png">
+
 - **Systematic Sampling**- Samples are chosen at random intervals.
 - **Stratified Sampling**- The population is divided into subgroups or strata based on a certain characteristic. Individual elements from a sub-population can be randomly selected.
 - **Cluster Sampling**- The entire population is divided into smaller groups and then a random sample of these clusters is selected. The sample size is then selected on the basis of sample size.
